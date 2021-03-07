@@ -14,4 +14,4 @@ Enough talking!
     Input: 
     Output: 34
 
-    Return Value: nil
+    Return Value: NULL
