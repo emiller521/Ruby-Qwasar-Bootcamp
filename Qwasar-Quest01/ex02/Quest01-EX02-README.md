@@ -2,7 +2,16 @@ The first part of coding is to create a variable. Let's get started with an inte
 
 Enough talking!
 
-Replace/Complete the following code. 
+****Replace/Complete the following code.****
 
-Create a variable with (if needed) the right type. (XX is what you need to replace)
+  ****CREATE A VARIABLE WITH (IF NEEDED) THE RIGHT TYPE. (XX is what you need to replace)****
+  
+    XX = 'c'
+    puts(my_letter)
 
+****OUTPUT:****
+
+    Input: 
+    Output: c
+
+    Return Value: NULL
