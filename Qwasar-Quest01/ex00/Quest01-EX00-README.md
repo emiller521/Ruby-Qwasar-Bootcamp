@@ -1,4 +1,4 @@
-First Ruby Project included in ****Qwasar's Ruby Bootcamp****.
+First Ruby Project included in Qwasar's Ruby Bootcamp.
 
 
 ****WRITE YOUR FIRST SCRIPT, PRINTING "Hello World!".****
